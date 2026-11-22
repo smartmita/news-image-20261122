@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261122/smartmita/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 [![reward](https://make.fun/badge/news-image-20261122/smartmita/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
-An illustrated Sunday, 22 November 2026 world news front page summarizing the day's top global stories across climate (COP31 Antalya overtime), European security (NATO & Poland airspace alert), Middle East energy (Iran electricity rationing), U.S. tech & markets (SEC Nvidia probe), European youth protests, Nigeria boat tragedy, and Norway/Asia-Pacific developments.
+An illustrated Sunday, 22 November 2026 global news broadsheet summarizing verified stories across six regions: COP31 Antalya climate talks stalling in double overtime, Iran's mandatory electricity and bread rationing, the Baltic Sea *Sparta II* drone strike amid Ukraine winter grid strain, Central Peru's M6.7 earthquake, fatal boat disasters in Nigeria and Senegal, and post-APEC Shenzhen trade and US-China tech curbs.
 
 ## Run it
 
