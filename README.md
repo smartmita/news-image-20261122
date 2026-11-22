@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261122/smartmita/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 [![reward](https://make.fun/badge/news-image-20261122/smartmita/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
-An illustrated Sunday, 22 November 2026 global news broadsheet summarizing verified stories across six regions: COP31 Antalya climate talks stalling in double overtime, Iran's mandatory electricity and bread rationing, the Baltic Sea *Sparta II* drone strike amid Ukraine winter grid strain, Central Peru's M6.7 earthquake, fatal boat disasters in Nigeria and Senegal, and post-APEC Shenzhen trade and US-China tech curbs.
+An illustrated Sunday, 22 November 2026 global news map cover summarizing verified breaking stories across seven regions and beats: COP31 Antalya climate talks collapsing into overtime deadlock, Russia-bound *Sparta II* burning off Finland alongside Lviv strikes, South Korea's education minister resigning over the AI exam scandal, Indonesia's Banten candy-factory blaze (3 dead, 36 missing), Bangladesh garment wage clashes with 95 BGB platoons and drones deployed, UN "killer robots" AI-arms talks stalling in Geneva, and Mexico's capture of cartel boss "El Chapo Isidro" alongside the FBI NCIC database breach probe.
 
 ## Run it
 
